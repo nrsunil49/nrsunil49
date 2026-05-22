@@ -103,11 +103,11 @@ Become a highly skilled Middleware & DevOps Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-n-r-ba6476260/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nrsunil49)
-https://www.linkedin.com/in/sunil-n-r-ba6476260/
+
 ---
 
 https://github.com/nrsunil49
-
+https://www.linkedin.com/in/sunil-n-r-ba6476260/
 # 📫 Contact
 
 📧 nrsunil49@gmail.com
