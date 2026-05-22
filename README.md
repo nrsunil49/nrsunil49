@@ -31,7 +31,6 @@ Linux | WebLogic | WildFly/JBoss | Jenkins | Docker | Kubernetes
 Become a highly skilled Middleware & DevOps Engineer
 
 ---
-
 # 🛠️ Tech Stack
 
 ### Middleware
@@ -65,6 +64,11 @@ Become a highly skilled Middleware & DevOps Engineer
 - Production Support
 - Heap Dump & Thread Dump Analysis
 
+### 🌍 Clients:
+JSW, Adani, JSL, JSPL, Anglo America, Sabic, Orpic, Dalmia, Qafac, Hindalco, Vedanta, Maaden
+
+### 🔗 Company URL:
+https://www.piloggroup.com/
 ---
 
 # 📂 Project
