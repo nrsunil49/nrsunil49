@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e08a824d-4557-48bf-add2-fb4cc3916bc9" /># 👋 Hey, I'm Sunil N R
+# 👋 Hey, I'm Sunil N R
 
 <h3 align="left">Middleware & DevOps Engineer 🚀</h3>
 
