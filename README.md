@@ -3,7 +3,7 @@
 <h3 align="left">Middleware & DevOps Engineer 🚀</h3>
 
 <p align="left">
-WebLogic | WildFly | Docker | Jenkins | Kubernetes | Linux
+Linux | WebLogic | WildFly/JBoss | Jenkins | Docker | Kubernetes 
 </p>
 
 ---
