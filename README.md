@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sunil N R
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e08a824d-4557-48bf-add2-fb4cc3916bc9" /># 👋 Hey, I'm Sunil N R
 
 <h3 align="left">Middleware & DevOps Engineer 🚀</h3>
 
@@ -23,7 +23,6 @@ Linux | WebLogic | WildFly/JBoss | Jenkins | Docker | Kubernetes
 📚 Currently learning:
 
 - Kubernetes
-- Terraform
 - Advanced Docker
 - CI/CD Automation
 - Cloud & DevOps
@@ -54,7 +53,7 @@ Become a highly skilled Middleware & DevOps Engineer
 # 💼 Experience
 
 ## Middleware Administrator  
-🏢 Pilog India Pvt Ltd
+🏢 3+ Years experience in Pilog India Pvt Ltd as a Middleware Administrator.
 
 ### Working on:
 - WebLogic 12c & 14c
@@ -73,15 +72,10 @@ Become a highly skilled Middleware & DevOps Engineer
 ## MDRM (Master Data Record Manager)
 
 🔹 Worked on deployment & administration of enterprise applications
-
 🔹 Configured standalone & domain mode WildFly environments
-
 🔹 Configured WebLogic clustered environments
-
 🔹 Automated deployments using Jenkins
-
 🔹 Configured Apache reverse proxy & SSL certificates
-
 🔹 Troubleshooting performance issues in production environments
 
 ---
@@ -109,7 +103,7 @@ Become a highly skilled Middleware & DevOps Engineer
 # 📫 Contact
 
 📧 nrsunil49@gmail.com
-
+📱 +91 8892593696
 📍 India
 
 ---
