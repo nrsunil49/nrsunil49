@@ -5,7 +5,7 @@
 <p align="left">
 WebLogic | WildFly | Docker | Jenkins | Kubernetes | Linux
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Middleware+Administrator;DevOps+Engineer;WildFly+%7C+WebLogic+%7C+Docker;Jenkins+%7C+Kubernetes+%7C+Linux)](https://git.io/typing-svg)
 ---
 
 # 🚀 About Me
